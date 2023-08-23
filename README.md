@@ -2,4 +2,4 @@
 
 by Jorge E. Pezoa, *et al.*
 
-Submitted to IEEE ACCESS, 2023
+Submitted to Sensors, 2023
